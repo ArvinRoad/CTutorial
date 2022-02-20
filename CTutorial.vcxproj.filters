@@ -24,5 +24,8 @@
     <ClCompile Include="2.0 注释.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.0 变量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
