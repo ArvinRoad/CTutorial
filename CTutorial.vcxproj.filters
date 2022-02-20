@@ -18,5 +18,8 @@
     <ClCompile Include="1.0 第一个关机程序.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1.1 HelloWorld.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
