@@ -1,6 +1,6 @@
 ﻿#include <stdlib.h>
 #include <stdio.h>
-void main() {
+void main4() {
 
 	int age = 10;
 	printf("%p", &age); // 打印出变量A所在内存地址
