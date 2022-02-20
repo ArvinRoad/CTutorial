@@ -6,7 +6,7 @@
 * 使用Pringtf()，必须调用<stdio.h>
 */
 
-void main() {
+void main2() {
 	printf("Hello World");
 	getchar();
 }

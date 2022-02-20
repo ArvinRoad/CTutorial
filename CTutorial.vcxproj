@@ -143,6 +143,7 @@
   <ItemGroup>
     <ClCompile Include="1.0 第一个关机程序.c" />
     <ClCompile Include="1.1 HelloWorld.c" />
+    <ClCompile Include="2.0 注释.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

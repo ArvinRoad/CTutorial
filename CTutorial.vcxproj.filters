@@ -21,5 +21,8 @@
     <ClCompile Include="1.1 HelloWorld.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2.0 注释.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
