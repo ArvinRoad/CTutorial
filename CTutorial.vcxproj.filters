@@ -33,6 +33,12 @@
     <ClCompile Include="3.2 响铃与跳格子.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.3 进制转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4 数据类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">

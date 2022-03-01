@@ -147,6 +147,8 @@
     <ClCompile Include="3.0 变量.c" />
     <ClCompile Include="3.1 创造一门编程语言.c" />
     <ClCompile Include="3.2 响铃与跳格子.c" />
+    <ClCompile Include="3.3 进制转换.c" />
+    <ClCompile Include="3.4 数据类型.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h" />
