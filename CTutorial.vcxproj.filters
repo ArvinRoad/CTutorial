@@ -54,6 +54,9 @@
     <ClCompile Include="3.9 ASCII码.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.10 加密解密.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
