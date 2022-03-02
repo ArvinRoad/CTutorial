@@ -42,7 +42,10 @@
     <ClCompile Include="3.5 数据极限与正负.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="3.6 整形常量.c">
+    <ClCompile Include="3.6 整型常量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7 浮点型.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

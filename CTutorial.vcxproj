@@ -150,7 +150,8 @@
     <ClCompile Include="3.3 进制转换.c" />
     <ClCompile Include="3.4 数据类型.c" />
     <ClCompile Include="3.5 数据极限与正负.c" />
-    <ClCompile Include="3.6 整形常量.c" />
+    <ClCompile Include="3.6 整型常量.c" />
+    <ClCompile Include="3.7 浮点型.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h" />
