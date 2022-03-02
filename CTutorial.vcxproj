@@ -153,6 +153,7 @@
     <ClCompile Include="3.6 整型常量.c" />
     <ClCompile Include="3.7 浮点型.c" />
     <ClCompile Include="3.8 字符.c" />
+    <ClCompile Include="3.9 ASCII码.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h" />
