@@ -152,6 +152,7 @@
     <ClCompile Include="3.13 加减乘除.c" />
     <ClCompile Include="3.14 自增与自减.c" />
     <ClCompile Include="3.15 复合赋值运算符.c" />
+    <ClCompile Include="3.16 关系运算符与逻辑运算符.c" />
     <ClCompile Include="3.2 响铃与跳格子.c" />
     <ClCompile Include="3.3 进制转换.c" />
     <ClCompile Include="3.4 数据类型.c" />
