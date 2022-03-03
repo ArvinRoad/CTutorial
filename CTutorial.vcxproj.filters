@@ -57,6 +57,27 @@
     <ClCompile Include="3.10 加密解密.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.11隐式类型转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.12 强制类型转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.13 加减乘除.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.14 自增与自减.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.15 复合赋值运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.16 关系运算符与逻辑运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.17 if_else判断.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
