@@ -154,6 +154,7 @@
     <ClCompile Include="3.15 复合赋值运算符.c" />
     <ClCompile Include="3.16 关系运算符与逻辑运算符.c" />
     <ClCompile Include="3.17 if_else判断.c" />
+    <ClCompile Include="3.18 Switch语句.c" />
     <ClCompile Include="3.2 响铃与跳格子.c" />
     <ClCompile Include="3.3 进制转换.c" />
     <ClCompile Include="3.4 数据类型.c" />
