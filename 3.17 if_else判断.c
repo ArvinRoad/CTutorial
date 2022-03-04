@@ -3,6 +3,13 @@
 #include <stdlib.h>
 #include <Windows.h>
 
+/**
+* 输入流缓冲区解决方案：
+*   1. setbuf(stdin, NULL);//使stdin输入流由默认缓冲区转为无缓冲区
+*   2. while ((c = getchar()) != EOF && c != '\n');//不停地使用getchar()获取缓冲中字符，直到获取的c是“\n”或文件结尾符EOF为止
+*   3. 某些编译器(如VC6)支持用 fflush(stdin) 来清空输入缓冲，这个方法在C标准是没有的，因为标准中根本没有定义 fflush(stdin)。fflush 操作输入流是对 C 标准的扩充。在windows没什么问题，但Linux是不支持的。
+*/
+
 void main20() {
 
     system("title 终结者邀请函");
@@ -84,18 +91,19 @@ void main20() {
         printf("很遗憾,我们失去了一位有能力的朋友\n");
         if (number < 1)
         {
+            while ((choose = getchar()) != EOF && choose != '\n');  //不停地使用 getchar()获取缓冲中字符，直到获取的c是“\n”或文件结尾符EOF为止
             Sleep(2000);
             printf("请问是否重新考虑？\n");
             number++;
             printf("请输入你的选择'Y'或'N'：");
-            choose = getchar();
+            //choose = getchar();     // 此处废弃，在没有清除输入缓存时暂代修复方案
             scanf("%c", &choose);
             goto LOOP;
         }
     }
     else
     {
-        printf("\n输入错误程序自动销毁\n");   // 此处第一个\n去掉会变成一个坑，基本很少有人可以解开(原创)
+        printf("\n输入错误程序自动销毁\n");
     }
     
     system("pause");
