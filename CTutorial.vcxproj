@@ -157,6 +157,7 @@
     <ClCompile Include="3.18 Switch语句.c" />
     <ClCompile Include="3.19 While循环获取键盘输入.c" />
     <ClCompile Include="3.2 响铃与跳格子.c" />
+    <ClCompile Include="3.20 do_while循环.c" />
     <ClCompile Include="3.3 进制转换.c" />
     <ClCompile Include="3.4 数据类型.c" />
     <ClCompile Include="3.5 数据极限与正负.c" />
