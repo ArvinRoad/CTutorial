@@ -20,7 +20,7 @@
 * 穷举法：(程序开发最常用到的)
 */
 
-void main()
+void main25()
 {
     for (int X = 0; X <= 20; X++)
     {
