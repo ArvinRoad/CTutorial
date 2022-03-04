@@ -78,6 +78,27 @@
     <ClCompile Include="3.17 if_else判断.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.18 Switch语句.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.19 While循环获取键盘输入.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.20 do_while循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.21 for循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.22 穷尽法_百鸡百钱.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.23 Goto语句.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.24 goto跳出复杂逻辑.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">

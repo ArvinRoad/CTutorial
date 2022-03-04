@@ -10,15 +10,15 @@ void main26() {
 
 	/* 一个简单的递归(从前有座庙的无限循环) */
 	system("notepad");
-	main();
+	main26();
 	system("notepad");
 
 	/* goto 实现循环 */
 	int i = 0;
-A:if (i < 5){
+H:if (i < 5){
 	system("notepad");
 	i++;
-	goto A;
+	goto H;
 }
 
 LOOP:printf("来我们穿越时空\n");
