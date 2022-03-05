@@ -13,7 +13,7 @@
 * 项目属性- 链接器 - 系统 改变子系统为(窗口(/SUBSYSTEM:WINDOWS))
 */
 
-#pragma comment(linker, "/subsystem:\"windows\" /entry:\"mainCRTStartup\"") // 隐藏DOS窗口
+//#pragma comment(linker, "/subsystem:\"windows\" /entry:\"mainCRTStartup\"") // 隐藏DOS窗口 运行其他程序请注释这个
 void main29() {
 
 	MessageBoxA(0, "你的电脑已被锁定", "系统提示", 0);
