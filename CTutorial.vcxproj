@@ -163,6 +163,7 @@
     <ClCompile Include="3.23 Goto语句.c" />
     <ClCompile Include="3.24 goto跳出复杂逻辑.c" />
     <ClCompile Include="3.25 闪现的World.c" />
+    <ClCompile Include="3.26 隐藏黑窗口.c" />
     <ClCompile Include="3.3 进制转换.c" />
     <ClCompile Include="3.4 数据类型.c" />
     <ClCompile Include="3.5 数据极限与正负.c" />

@@ -99,6 +99,12 @@
     <ClCompile Include="3.24 goto跳出复杂逻辑.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.25 闪现的World.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.26 隐藏黑窗口.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
