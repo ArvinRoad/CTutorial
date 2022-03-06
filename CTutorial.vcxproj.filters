@@ -105,9 +105,15 @@
     <ClCompile Include="3.26 隐藏黑窗口.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.0 函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="4.0 函数.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
