@@ -177,6 +177,7 @@
     <ClCompile Include="4.3 排序法求极值.c" />
     <ClCompile Include="4.4 选择排序法方法一.c" />
     <ClCompile Include="4.4.1 选择排序法方法二.c" />
+    <ClCompile Include="4.5 冒泡排序法求极值.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h" />
