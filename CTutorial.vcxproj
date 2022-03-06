@@ -172,6 +172,7 @@
     <ClCompile Include="3.8 字符.c" />
     <ClCompile Include="3.9 ASCII码.c" />
     <ClCompile Include="4.0 函数.c" />
+    <ClCompile Include="4.1 数组语法.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h" />

@@ -108,6 +108,9 @@
     <ClCompile Include="4.0 函数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.1 数组语法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
