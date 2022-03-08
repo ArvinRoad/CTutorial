@@ -182,6 +182,7 @@
     <ClCompile Include="4.7 二分查找法.c" />
     <ClCompile Include="5.0 内存与变量.c" />
     <ClCompile Include="5.1 指针语法.c" />
+    <ClCompile Include="5.2 指针详解.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h" />
