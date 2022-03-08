@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>
 
-void main() {
+void main39() {
 
 	// a其实的地址的别名
 	int a = 10;
