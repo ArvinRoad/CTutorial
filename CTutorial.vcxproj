@@ -180,6 +180,7 @@
     <ClCompile Include="4.5 冒泡排序法求极值.c" />
     <ClCompile Include="4.6 冒泡排序法.c" />
     <ClCompile Include="4.7 二分查找法.c" />
+    <ClCompile Include="5.0 内存与变量.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h" />
