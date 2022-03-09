@@ -147,6 +147,9 @@
     <ClCompile Include="5.4 指针练习二.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.5 指针与数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
