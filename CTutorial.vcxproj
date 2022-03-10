@@ -185,6 +185,7 @@
     <ClCompile Include="5.10 内存栈区疑问与调试.c" />
     <ClCompile Include="5.11 内存堆区.c" />
     <ClCompile Include="5.12 指针运算.c" />
+    <ClCompile Include="5.13 指针与数组.c" />
     <ClCompile Include="5.2 指针详解.c" />
     <ClCompile Include="5.3 指针练习.c" />
     <ClCompile Include="5.4 指针练习二.c" />
