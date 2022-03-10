@@ -193,6 +193,7 @@
     <ClCompile Include="5.18 结构体变量之间赋值.c" />
     <ClCompile Include="5.19 结构体静态数组.c" />
     <ClCompile Include="5.2 指针详解.c" />
+    <ClCompile Include="5.20 结构体动态数组.c" />
     <ClCompile Include="5.3 指针练习.c" />
     <ClCompile Include="5.4 指针练习二.c" />
     <ClCompile Include="5.5 指针与数组.c" />
