@@ -190,6 +190,7 @@
     <ClCompile Include="5.15 指针数组.c" />
     <ClCompile Include="5.16 结构体.c" />
     <ClCompile Include="5.17 结构体初始化.c" />
+    <ClCompile Include="5.18 结构体变量之间赋值.c" />
     <ClCompile Include="5.2 指针详解.c" />
     <ClCompile Include="5.3 指针练习.c" />
     <ClCompile Include="5.4 指针练习二.c" />
