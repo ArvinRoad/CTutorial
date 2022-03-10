@@ -180,6 +180,12 @@
     <ClCompile Include="5.15 指针数组.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.16 结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.17 结构体初始化.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
