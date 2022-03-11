@@ -195,6 +195,7 @@
     <ClCompile Include="5.2 指针详解.c" />
     <ClCompile Include="5.20 结构体动态数组.c" />
     <ClCompile Include="5.21 结构体嵌套指针.c" />
+    <ClCompile Include="5.22 结构体赋值细节.c" />
     <ClCompile Include="5.3 指针练习.c" />
     <ClCompile Include="5.4 指针练习二.c" />
     <ClCompile Include="5.5 指针与数组.c" />
