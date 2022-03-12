@@ -198,7 +198,10 @@
     <ClCompile Include="5.21 结构体嵌套指针.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="5.22 结构体赋值细节.c">
+    <ClCompile Include="5.22 结构体赋值细节上.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.23 结构体赋值细节下.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
