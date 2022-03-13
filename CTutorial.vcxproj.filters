@@ -219,6 +219,12 @@
     <ClCompile Include="6.2 文件重定向.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6.3 文件重定向二.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3.1 FILE 类型的底层实现.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
