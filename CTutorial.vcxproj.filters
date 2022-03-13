@@ -228,6 +228,9 @@
     <ClCompile Include="6.4 C语言读取文件内容.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6.5 C语言获取文件大小.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
