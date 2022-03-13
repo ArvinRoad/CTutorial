@@ -197,6 +197,7 @@
     <ClCompile Include="5.21 结构体嵌套指针.c" />
     <ClCompile Include="5.22 结构体赋值细节上.c" />
     <ClCompile Include="5.23 结构体赋值细节下.c" />
+    <ClCompile Include="5.24 C语言实现界面.c" />
     <ClCompile Include="5.3 指针练习.c" />
     <ClCompile Include="5.4 指针练习二.c" />
     <ClCompile Include="5.5 指针与数组.c" />

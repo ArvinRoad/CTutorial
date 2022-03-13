@@ -1,11 +1,11 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>
 
-MyStruct* Test();
-
 typedef struct MyStruct {
 	char* Hello;
 }MyStruct;
+
+MyStruct* Test() {};
 
 void main61(void) {
 

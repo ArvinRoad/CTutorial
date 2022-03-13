@@ -204,6 +204,9 @@
     <ClCompile Include="5.23 结构体赋值细节下.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.24 C语言实现界面.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
