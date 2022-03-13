@@ -206,6 +206,7 @@
     <ClCompile Include="5.7 间接修改内存地址.c" />
     <ClCompile Include="5.8 内存栈区_全局区.c" />
     <ClCompile Include="5.9 内存栈区.c" />
+    <ClCompile Include="6.0 C语言文件基本操作.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h" />
