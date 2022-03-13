@@ -216,6 +216,9 @@
     <ClCompile Include="6.1 文件写入内容和文件缓冲区.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6.2 文件重定向.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3.1 创造一门编程语言.h">
